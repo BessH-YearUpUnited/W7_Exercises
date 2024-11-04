@@ -13,10 +13,9 @@ basket = {
 
 
 
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+# A similar approach, wrapping each chunk of code in a function
 
-
-
-# # # # # # #
 
 # def char_descr():
 
