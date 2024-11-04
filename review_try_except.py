@@ -13,4 +13,16 @@ def try_test(num):
         print("End test.")
     
 
-try_test(input('Enter a number: '))
+# try_test(input('Enter a number: '))
+
+# # # # # # # # # # #
+# EXCEPTION EXAMPLES
+
+# ValueError : num = int('banana') 
+
+# SyntaxError: num = int 'banana'
+
+# NameError: num = banana
+
+num = 123
+num[0]
