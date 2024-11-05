@@ -1,7 +1,7 @@
 import numpy as np
 
-# veg = [('cucumber', 'celery'), ('avocado', 'kale')]
-# array_veg = np.array(veg)
+veg = [('cucumber', 'celery'), ('avocado', 'kale')]
+array_veg = np.array(veg)
 
 # prices = (1, 2, 3, 4.99)
 

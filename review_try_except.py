@@ -18,11 +18,15 @@ def try_test(num):
 # # # # # # # # # # #
 # EXCEPTION EXAMPLES
 
-# ValueError : num = int('banana') 
+# ValueError: 
+# num = int('banana') 
 
-# SyntaxError: num = int 'banana'
+# SyntaxError: 
+# num = int 'banana'
 
-# NameError: num = banana
+# NameError: 
+# num = banana
 
-num = 123
-num[0]
+# TypeError: 
+# num = 123
+# num[0]
