@@ -15,8 +15,11 @@ def try_test(num):
 
 # try_test(input('Enter a number: '))
 
-# # # # # # # # # # #
-# EXCEPTION EXAMPLES
+
+
+# # # # # # # # # # # #
+# EXCEPTION  EXAMPLES #
+# # # # # # # # # # # #
 
 # ValueError: 
 # num = int('banana') 
