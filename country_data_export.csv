@@ -1,0 +1,101 @@
+Name,Continent,Region,SurfaceArea,IndepYear,Population,LifeExpectancy,GNP,LocalName,Language
+Aruba,North America,Caribbean,193.0,,103000,78.4,828.0,Aruba,Dutch
+Aruba,North America,Caribbean,193.0,,103000,78.4,828.0,Aruba,English
+Aruba,North America,Caribbean,193.0,,103000,78.4,828.0,Aruba,Papiamento
+Aruba,North America,Caribbean,193.0,,103000,78.4,828.0,Aruba,Spanish
+Afghanistan,Asia,Southern and Central Asia,652090.0,1919.0,22720000,45.9,5976.0,Afganistan/Afqanestan,Balochi
+Afghanistan,Asia,Southern and Central Asia,652090.0,1919.0,22720000,45.9,5976.0,Afganistan/Afqanestan,Dari
+Afghanistan,Asia,Southern and Central Asia,652090.0,1919.0,22720000,45.9,5976.0,Afganistan/Afqanestan,Pashto
+Afghanistan,Asia,Southern and Central Asia,652090.0,1919.0,22720000,45.9,5976.0,Afganistan/Afqanestan,Turkmenian
+Afghanistan,Asia,Southern and Central Asia,652090.0,1919.0,22720000,45.9,5976.0,Afganistan/Afqanestan,Uzbek
+Angola,Africa,Central Africa,1246700.0,1975.0,12878000,38.3,6648.0,Angola,Ambo
+Angola,Africa,Central Africa,1246700.0,1975.0,12878000,38.3,6648.0,Angola,Chokwe
+Angola,Africa,Central Africa,1246700.0,1975.0,12878000,38.3,6648.0,Angola,Kongo
+Angola,Africa,Central Africa,1246700.0,1975.0,12878000,38.3,6648.0,Angola,Luchazi
+Angola,Africa,Central Africa,1246700.0,1975.0,12878000,38.3,6648.0,Angola,Luimbe-nganguela
+Angola,Africa,Central Africa,1246700.0,1975.0,12878000,38.3,6648.0,Angola,Luvale
+Angola,Africa,Central Africa,1246700.0,1975.0,12878000,38.3,6648.0,Angola,Mbundu
+Angola,Africa,Central Africa,1246700.0,1975.0,12878000,38.3,6648.0,Angola,Nyaneka-nkhumbi
+Angola,Africa,Central Africa,1246700.0,1975.0,12878000,38.3,6648.0,Angola,Ovimbundu
+Anguilla,North America,Caribbean,96.0,,8000,76.1,63.2,Anguilla,English
+Albania,Europe,Southern Europe,28748.0,1912.0,3401200,71.6,3205.0,Shqipëria,Albaniana
+Albania,Europe,Southern Europe,28748.0,1912.0,3401200,71.6,3205.0,Shqipëria,Greek
+Albania,Europe,Southern Europe,28748.0,1912.0,3401200,71.6,3205.0,Shqipëria,Macedonian
+Andorra,Europe,Southern Europe,468.0,1278.0,78000,83.5,1630.0,Andorra,Catalan
+Andorra,Europe,Southern Europe,468.0,1278.0,78000,83.5,1630.0,Andorra,French
+Andorra,Europe,Southern Europe,468.0,1278.0,78000,83.5,1630.0,Andorra,Portuguese
+Andorra,Europe,Southern Europe,468.0,1278.0,78000,83.5,1630.0,Andorra,Spanish
+Netherlands Antilles,North America,Caribbean,800.0,,217000,74.7,1941.0,Nederlandse Antillen,Dutch
+Netherlands Antilles,North America,Caribbean,800.0,,217000,74.7,1941.0,Nederlandse Antillen,English
+Netherlands Antilles,North America,Caribbean,800.0,,217000,74.7,1941.0,Nederlandse Antillen,Papiamento
+United Arab Emirates,Asia,Middle East,83600.0,1971.0,2441000,74.1,37966.0,Al-Imarat al-´Arabiya al-Muttahida,Arabic
+United Arab Emirates,Asia,Middle East,83600.0,1971.0,2441000,74.1,37966.0,Al-Imarat al-´Arabiya al-Muttahida,Hindi
+Argentina,South America,South America,2780400.0,1816.0,37032000,75.1,340238.0,Argentina,Indian Languages
+Argentina,South America,South America,2780400.0,1816.0,37032000,75.1,340238.0,Argentina,Italian
+Argentina,South America,South America,2780400.0,1816.0,37032000,75.1,340238.0,Argentina,Spanish
+Armenia,Asia,Middle East,29800.0,1991.0,3520000,66.4,1813.0,Hajastan,Armenian
+Armenia,Asia,Middle East,29800.0,1991.0,3520000,66.4,1813.0,Hajastan,Azerbaijani
+American Samoa,Oceania,Polynesia,199.0,,68000,75.1,334.0,Amerika Samoa,English
+American Samoa,Oceania,Polynesia,199.0,,68000,75.1,334.0,Amerika Samoa,Samoan
+American Samoa,Oceania,Polynesia,199.0,,68000,75.1,334.0,Amerika Samoa,Tongan
+Antigua and Barbuda,North America,Caribbean,442.0,1981.0,68000,70.5,612.0,Antigua and Barbuda,Creole English
+Antigua and Barbuda,North America,Caribbean,442.0,1981.0,68000,70.5,612.0,Antigua and Barbuda,English
+Australia,Oceania,Australia and New Zealand,7741220.0,1901.0,18886000,79.8,351182.0,Australia,Arabic
+Australia,Oceania,Australia and New Zealand,7741220.0,1901.0,18886000,79.8,351182.0,Australia,Canton Chinese
+Australia,Oceania,Australia and New Zealand,7741220.0,1901.0,18886000,79.8,351182.0,Australia,English
+Australia,Oceania,Australia and New Zealand,7741220.0,1901.0,18886000,79.8,351182.0,Australia,German
+Australia,Oceania,Australia and New Zealand,7741220.0,1901.0,18886000,79.8,351182.0,Australia,Greek
+Australia,Oceania,Australia and New Zealand,7741220.0,1901.0,18886000,79.8,351182.0,Australia,Italian
+Australia,Oceania,Australia and New Zealand,7741220.0,1901.0,18886000,79.8,351182.0,Australia,Serbo-Croatian
+Australia,Oceania,Australia and New Zealand,7741220.0,1901.0,18886000,79.8,351182.0,Australia,Vietnamese
+Austria,Europe,Western Europe,83859.0,1918.0,8091800,77.7,211860.0,Österreich,Czech
+Austria,Europe,Western Europe,83859.0,1918.0,8091800,77.7,211860.0,Österreich,German
+Austria,Europe,Western Europe,83859.0,1918.0,8091800,77.7,211860.0,Österreich,Hungarian
+Austria,Europe,Western Europe,83859.0,1918.0,8091800,77.7,211860.0,Österreich,Polish
+Austria,Europe,Western Europe,83859.0,1918.0,8091800,77.7,211860.0,Österreich,Romanian
+Austria,Europe,Western Europe,83859.0,1918.0,8091800,77.7,211860.0,Österreich,Serbo-Croatian
+Austria,Europe,Western Europe,83859.0,1918.0,8091800,77.7,211860.0,Österreich,Slovene
+Austria,Europe,Western Europe,83859.0,1918.0,8091800,77.7,211860.0,Österreich,Turkish
+Azerbaijan,Asia,Middle East,86600.0,1991.0,7734000,62.9,4127.0,Azärbaycan,Armenian
+Azerbaijan,Asia,Middle East,86600.0,1991.0,7734000,62.9,4127.0,Azärbaycan,Azerbaijani
+Azerbaijan,Asia,Middle East,86600.0,1991.0,7734000,62.9,4127.0,Azärbaycan,Lezgian
+Azerbaijan,Asia,Middle East,86600.0,1991.0,7734000,62.9,4127.0,Azärbaycan,Russian
+Burundi,Africa,Eastern Africa,27834.0,1962.0,6695000,46.2,903.0,Burundi/Uburundi,French
+Burundi,Africa,Eastern Africa,27834.0,1962.0,6695000,46.2,903.0,Burundi/Uburundi,Kirundi
+Burundi,Africa,Eastern Africa,27834.0,1962.0,6695000,46.2,903.0,Burundi/Uburundi,Swahili
+Belgium,Europe,Western Europe,30518.0,1830.0,10239000,77.8,249704.0,België/Belgique,Arabic
+Belgium,Europe,Western Europe,30518.0,1830.0,10239000,77.8,249704.0,België/Belgique,Dutch
+Belgium,Europe,Western Europe,30518.0,1830.0,10239000,77.8,249704.0,België/Belgique,French
+Belgium,Europe,Western Europe,30518.0,1830.0,10239000,77.8,249704.0,België/Belgique,German
+Belgium,Europe,Western Europe,30518.0,1830.0,10239000,77.8,249704.0,België/Belgique,Italian
+Belgium,Europe,Western Europe,30518.0,1830.0,10239000,77.8,249704.0,België/Belgique,Turkish
+Benin,Africa,Western Africa,112622.0,1960.0,6097000,50.2,2357.0,Bénin,Adja
+Benin,Africa,Western Africa,112622.0,1960.0,6097000,50.2,2357.0,Bénin,Aizo
+Benin,Africa,Western Africa,112622.0,1960.0,6097000,50.2,2357.0,Bénin,Bariba
+Benin,Africa,Western Africa,112622.0,1960.0,6097000,50.2,2357.0,Bénin,Fon
+Benin,Africa,Western Africa,112622.0,1960.0,6097000,50.2,2357.0,Bénin,Ful
+Benin,Africa,Western Africa,112622.0,1960.0,6097000,50.2,2357.0,Bénin,Joruba
+Benin,Africa,Western Africa,112622.0,1960.0,6097000,50.2,2357.0,Bénin,Somba
+Burkina Faso,Africa,Western Africa,274000.0,1960.0,11937000,46.7,2425.0,Burkina Faso,Busansi
+Burkina Faso,Africa,Western Africa,274000.0,1960.0,11937000,46.7,2425.0,Burkina Faso,Dagara
+Burkina Faso,Africa,Western Africa,274000.0,1960.0,11937000,46.7,2425.0,Burkina Faso,Dyula
+Burkina Faso,Africa,Western Africa,274000.0,1960.0,11937000,46.7,2425.0,Burkina Faso,Ful
+Burkina Faso,Africa,Western Africa,274000.0,1960.0,11937000,46.7,2425.0,Burkina Faso,Gurma
+Burkina Faso,Africa,Western Africa,274000.0,1960.0,11937000,46.7,2425.0,Burkina Faso,Mossi
+Bangladesh,Asia,Southern and Central Asia,143998.0,1971.0,129155000,60.2,32852.0,Bangladesh,Bengali
+Bangladesh,Asia,Southern and Central Asia,143998.0,1971.0,129155000,60.2,32852.0,Bangladesh,Chakma
+Bangladesh,Asia,Southern and Central Asia,143998.0,1971.0,129155000,60.2,32852.0,Bangladesh,Garo
+Bangladesh,Asia,Southern and Central Asia,143998.0,1971.0,129155000,60.2,32852.0,Bangladesh,Khasi
+Bangladesh,Asia,Southern and Central Asia,143998.0,1971.0,129155000,60.2,32852.0,Bangladesh,Marma
+Bangladesh,Asia,Southern and Central Asia,143998.0,1971.0,129155000,60.2,32852.0,Bangladesh,Santhali
+Bangladesh,Asia,Southern and Central Asia,143998.0,1971.0,129155000,60.2,32852.0,Bangladesh,Tripuri
+Bulgaria,Europe,Eastern Europe,110994.0,1908.0,8190900,70.9,12178.0,Balgarija,Bulgariana
+Bulgaria,Europe,Eastern Europe,110994.0,1908.0,8190900,70.9,12178.0,Balgarija,Macedonian
+Bulgaria,Europe,Eastern Europe,110994.0,1908.0,8190900,70.9,12178.0,Balgarija,Romani
+Bulgaria,Europe,Eastern Europe,110994.0,1908.0,8190900,70.9,12178.0,Balgarija,Turkish
+Bahrain,Asia,Middle East,694.0,1971.0,617000,73.0,6366.0,Al-Bahrayn,Arabic
+Bahrain,Asia,Middle East,694.0,1971.0,617000,73.0,6366.0,Al-Bahrayn,English
+Bahamas,North America,Caribbean,13878.0,1973.0,307000,71.1,3527.0,The Bahamas,Creole English
+Bahamas,North America,Caribbean,13878.0,1973.0,307000,71.1,3527.0,The Bahamas,Creole French
+Bosnia and Herzegovina,Europe,Southern Europe,51197.0,1992.0,3972000,71.5,2841.0,Bosna i Hercegovina,Serbo-Croatian
+Belarus,Europe,Eastern Europe,207600.0,1991.0,10236000,68.0,13714.0,Belarus,Belorussian

@@ -1,0 +1,126 @@
+ID,Timestamp,Age,Country,Postal Code,Min Sib,Max Sib,TV_Amount,Muppet,Ghost_Belief,Ghost_Encounter,Rock_Paper_Scissors
+1,6/21/2024 12:50,42,United States,60189,1,2,3-6 hours per week,Rizzo the Rat,Maybe,Maybe,Paper
+2,6/21/2024 13:23,33,USA,59086,5,NULL,6-8 hours per week,Gonzo the Great,Maybe,No,Scissors
+3,6/21/2024 13:35,52,USA,97219,0,0,1-3 hours per week,Beaker.  A thousand times Beaker.,Maybe,Maybe,Rock
+4,6/21/2024 13:40,65,United States of America,55118,5,NULL,More than 8 hours per week,Fozzie Bear,Yes,Yes,Paper
+5,6/21/2024 13:50,51,United States ,55116,1,2,More than 8 hours per week,Animal,Yes,Maybe,Rock
+6,6/21/2024 14:01,28,USA,43207,1,2,3-6 hours per week,Rizzo the Rat,Maybe,Maybe,Rock
+7,6/21/2024 14:02,40,Usa,53704,1,2,Less than 1 hour per week,I do not have a favorite Muppet,No,No,Rock
+8,6/21/2024 14:18,48,us,54016,3,4,Less than 1 hour per week,Kermit the Frog,Maybe,Yes,Rock
+9,6/21/2024 14:18,51,USA,54016,1,2,More than 8 hours per week,Animal,Maybe,Maybe,Rock
+10,6/21/2024 14:40,43,United States,54016,3,4,3-6 hours per week,Fozzie Bear,Maybe,Maybe,Scissors
+11,6/21/2024 14:52,52,United States,55104,1,2,More than 8 hours per week,Animal,Yes,Maybe,Paper
+12,6/21/2024 16:17,42,United States ,55331,1,2,More than 8 hours per week,The Swedish Chef,Maybe,No,Paper
+13,6/21/2024 19:26,999,Wakanda,UHG-966a,5,NULL,3-6 hours per week,Fozzie Bear,Maybe,Maybe,Paper
+14,6/21/2024 19:29,42,US,55447,1,2,1-3 hours per week,Beaker,Maybe,Maybe,Scissors
+15,6/21/2024 20:06,42,America ,Somewhere in WI,1,2,3-6 hours per week,Miss Piggy,Yes,Yes,Scissors
+16,6/21/2024 20:32,18,United States,54016,1,2,3-6 hours per week,Kermit the Frog,Yes,Yes,Paper
+17,6/21/2024 20:35,44,United States of America ,54016,1,2,3-6 hours per week,Animal,Yes,Maybe,Rock
+18,6/21/2024 20:43,8,United States ,55102,1,2,6-8 hours per week,Kermit the Frog,Yes,Yes,Rock
+19,6/21/2024 20:45,43,United States ,55102,1,2,More than 8 hours per week,Animal,No,No,Scissors
+20,6/21/2024 20:50,69,USA,54016,1,2,6-8 hours per week,Oscar the Grouch,Maybe,Maybe,Rock
+21,6/21/2024 21:03,55,USA ,10024,0,0,3-6 hours per week,Gonzo the Great,Yes,Yes,Paper
+22,6/21/2024 21:09,13,USA,60187,3,4,1-3 hours per week,Mahna Mahna,Maybe,No,Rock
+23,6/21/2024 23:25,42,United States,55104,1,2,1-3 hours per week,Kermit the Frog,Yes,Yes,Paper
+24,6/22/2024 4:40,70,United States of America ,55119,1,2,1-3 hours per week,Miss Piggy,Yes,No,Scissors
+25,6/22/2024 5:30,43,USA,56318,3,4,1-3 hours per week,Fozzie Bear,No,No,Paper
+26,6/22/2024 7:08,46,United States of America,55434,3,4,More than 8 hours per week,Fozzie Bear,Yes,Yes,Rock
+27,6/22/2024 8:27,37,US,04239,1,2,6-8 hours per week,Gonzo the Great,Maybe,Yes,Scissors
+28,6/22/2024 9:29,51,UK,SE7 7JQ,1,2,3-6 hours per week,Kermit the Frog,No,No,Scissors
+29,6/22/2024 12:18,42,Usa,55439,1,2,3-6 hours per week,Kermit the Frog,Yes,Maybe,Rock
+30,6/22/2024 13:22,37,USA,55124,1,2,More than 8 hours per week,I do not have a favorite Muppet,No,No,Scissors
+31,6/22/2024 13:24,35,USA,55124,1,2,1-3 hours per week,I do not have a favorite Muppet,No,No,Rock
+32,6/22/2024 15:42,50,USA,53528,1,2,3-6 hours per week,Gonzo the Great,Maybe,Maybe,Rock
+33,6/22/2024 16:16,61,United States,54009,3,4,6-8 hours per week,I do not have a favorite Muppet,No,No,Paper
+34,6/22/2024 20:38,53,USA,55105,1,2,More than 8 hours per week,Animal,Maybe,Maybe,Scissors
+35,6/23/2024 7:42,41,United States ,49546,1,2,6-8 hours per week,Kermit the Frog,Yes,Maybe,Rock
+36,6/23/2024 10:36,47,USA,55118,1,2,More than 8 hours per week,Gonzo the Great,No,No,Rock
+37,6/23/2024 13:23,66,USA,55113,1,2,6-8 hours per week,Kermit the Frog,No,No,Rock
+38,6/23/2024 17:41,39,United States,46590,1,2,More than 8 hours per week,Gonzo the Great,Maybe,No,Scissors
+39,6/24/2024 11:09,37,United States,55409,3,4,1-3 hours per week,Gonzo the Great,Maybe,No,Rock
+40,6/24/2024 12:39,65,USA,55416,1,2,More than 8 hours per week,I do not have a favorite Muppet,Yes,No,Rock
+41,6/24/2024 13:39,40,United Kingdom,CB24 9HW,1,2,More than 8 hours per week,I do not have a favorite Muppet,Maybe,Maybe,Paper
+42,6/24/2024 13:46,63,United Stayes,55071,0,0,3-6 hours per week,Fozzie Bear,Yes,No,Paper
+43,6/24/2024 14:08,32,USA,60202,0,0,3-6 hours per week,Miss Piggy,Yes,Yes,Scissors
+44,6/24/2024 14:58,42,USA,60174,1,2,More than 8 hours per week,Animal,No,No,Paper
+45,6/24/2024 15:13,48,Australia ,2291,1,2,1-3 hours per week,Kermit the Frog,No,No,Rock
+46,6/24/2024 15:56,23,Untied States,60634,3,4,3-6 hours per week,Fozzie Bear,No,No,Paper
+47,6/24/2024 16:05,66,USA,55125,3,4,6-8 hours per week,I do not have a favorite Muppet,Maybe,Maybe,Scissors
+48,6/24/2024 17:50,40,United States ,55077,1,2,3-6 hours per week,Animal,Maybe,Maybe,Paper
+49,6/24/2024 19:40,71,Usa,20852,3,4,1-3 hours per week,I do not have a favorite Muppet,No,No,Rock
+50,6/24/2024 20:08,35,US,55123,1,2,3-6 hours per week,I do not have a favorite Muppet,Maybe,No,Rock
+51,6/24/2024 21:26,50,United States ,53212,1,2,6-8 hours per week,Animal,Maybe,Maybe,Paper
+52,6/24/2024 23:37,36,United States,56069,1,2,More than 8 hours per week,Kermit the Frog,No,No,Rock
+53,6/24/2024 23:52,33,United States,80027,1,2,1-3 hours per week,Gonzo the Great,Maybe,No,Paper
+54,6/25/2024 4:44,57,USA,54956,0,0,3-6 hours per week,Kermit the Frog,Maybe,No,Rock
+55,6/25/2024 7:42,38,USA,20003,1,2,3-6 hours per week,Gonzo the Great,No,No,Rock
+56,6/25/2024 10:27,52,United States,55122,1,2,More than 8 hours per week,Kermit the Frog,No,No,Scissors
+57,6/25/2024 12:22,36,United States,55117,1,2,More than 8 hours per week,Beaker,No,Maybe,Paper
+58,6/25/2024 15:11,50,Australia,5062,1,2,3-6 hours per week,Gonzo the Great,No,No,Rock
+59,6/25/2024 15:26,33,USA,37211,3,4,1-3 hours per week,Animal,Yes,Maybe,Scissors
+60,6/25/2024 21:57,38,Usa,55126,1,2,3-6 hours per week,Fozzie Bear,No,No,Rock
+61,6/25/2024 23:33,63,USA,55316,5,NULL,More than 8 hours per week,Animal,No,No,Rock
+62,6/26/2024 1:04,56,USA,99504,1,2,1-3 hours per week,Miss Piggy,Yes,No,Scissors
+63,6/26/2024 6:27,39,USA,,1,2,6-8 hours per week,Fozzie Bear,No,No,Rock
+64,6/26/2024 7:03,57,United States,55038,1,2,6-8 hours per week,Kermit the Frog,Yes,Yes,Rock
+65,6/26/2024 8:15,22,USA,37920,1,2,1-3 hours per week,Animal,No,No,Rock
+66,6/26/2024 18:36,25,United States of America,60645,1,2,3-6 hours per week,Miss Piggy,Maybe,No,Paper
+67,6/27/2024 8:09,67,USA,60657,3,4,1-3 hours per week,Animal,No,No,Paper
+68,6/28/2024 22:14,44,United States,29204,5,NULL,3-6 hours per week,Fozzie Bear,No,No,Paper
+69,6/28/2024 23:26,51,United States,30338,1,2,6-8 hours per week,I do not have a favorite Muppet,Yes,Yes,Scissors
+70,6/28/2024 23:38,19,United States,60638,1,2,3-6 hours per week,Miss Piggy,Maybe,No,Paper
+71,6/28/2024 23:43,48,United States ,68502,0,0,More than 8 hours per week,Animal,Maybe,Maybe,Rock
+72,6/29/2024 4:37,37,Usa,Nope,1,2,6-8 hours per week,Miss Piggy,Maybe,No,Rock
+73,6/29/2024 6:53,30,Italy,54027,0,0,More than 8 hours per week,Miss Piggy,Yes,Maybe,Scissors
+74,6/29/2024 8:33,56,usa,19033,1,2,3-6 hours per week,Kermit the Frog,Yes,Maybe,Scissors
+75,6/29/2024 9:09,44,United States ,70611,1,2,More than 8 hours per week,Gonzo the Great,No,No,Paper
+76,6/29/2024 11:45,42,USA,89115,1,2,More than 8 hours per week,Gonzo the Great,No,No,Rock
+77,6/29/2024 22:12,43,United States,55128,1,2,6-8 hours per week,Gonzo the Great,Yes,Maybe,Rock
+78,6/29/2024 22:20,50,United States,55123,1,2,More than 8 hours per week,Gonzo the Great,No,No,Rock
+79,6/29/2024 22:38,48,United States,55406,1,2,1-3 hours per week,Animal,No,No,Paper
+80,6/29/2024 22:52,41,US,45215,0,0,6-8 hours per week,Miss Piggy,Yes,Yes,Rock
+81,6/30/2024 0:31,40,USA ,08691,3,4,6-8 hours per week,Kermit the Frog,Maybe,No,Rock
+82,6/30/2024 8:47,16,USA,55128,1,2,More than 8 hours per week,Gonzo the Great,No,No,Scissors
+83,6/30/2024 18:07,38,United States,94530,1,2,3-6 hours per week,I do not have a favorite Muppet,Yes,Maybe,Scissors
+84,6/30/2024 20:00,47,USA,90301,3,4,More than 8 hours per week,I do not have a favorite Muppet,Yes,Yes,Scissors
+85,6/30/2024 22:50,37,United States ,55406,1,2,1-3 hours per week,Animal,Yes,Yes,Rock
+86,7/1/2024 6:06,40,United States,33596,1,2,3-6 hours per week,Animal,Yes,Yes,Paper
+87,7/1/2024 7:27,27,United States of America ,75455,1,2,More than 8 hours per week,Miss Piggy,Yes,Yes,Rock
+88,7/1/2024 7:28,46,United States ,43016,1,2,1-3 hours per week,I do not have a favorite Muppet,Yes,No,Scissors
+89,7/1/2024 8:39,57,USA,55125,1,2,More than 8 hours per week,Kermit the Frog,No,No,Rock
+90,7/1/2024 12:03,44,United States ,30228,1,2,More than 8 hours per week,Miss Piggy,Yes,Yes,Rock
+91,7/1/2024 16:38,35,United States,60020,5,NULL,3-6 hours per week,Fozzie Bear,Maybe,Maybe,Scissors
+92,7/1/2024 17:01,32,United States ,30296,1,2,3-6 hours per week,I do not have a favorite Muppet,Yes,Maybe,Paper
+93,7/1/2024 17:04,28,United States,01970,1,2,Less than 1 hour per week,Miss Piggy,Maybe,Yes,Rock
+94,7/1/2024 17:21,36,United States,93662,1,2,More than 8 hours per week,Animal,Yes,Maybe,Paper
+95,7/1/2024 17:35,34,USA ,77070,1,2,More than 8 hours per week,Animal,Maybe,Yes,Rock
+96,7/1/2024 17:51,31,USA,97302,1,2,3-6 hours per week,Gonzo the Great,Maybe,No,Rock
+97,7/1/2024 17:53,40,United States ,77080,0,0,6-8 hours per week,Miss Piggy,Maybe,No,Paper
+98,7/1/2024 17:53,47,usa,79022,1,2,6-8 hours per week,Gonzo the Great,Yes,Yes,Paper
+99,7/1/2024 23:02,19,USA,06360,1,2,3-6 hours per week,I do not have a favorite Muppet,Maybe,Maybe,Rock
+100,7/2/2024 12:54,58,USA,55331,1,2,3-6 hours per week,Animal,Maybe,No,Rock
+101,7/7/2024 20:19,47,USA,55123,0,0,3-6 hours per week,Animal,Maybe,Maybe,Rock
+102,7/9/2024 12:58,43,United States,14621,1,2,3-6 hours per week,Miss Piggy,Maybe,Maybe,Scissors
+103,7/10/2024 21:28,43,United states,55424,1,2,6-8 hours per week,I do not have a favorite Muppet,No,No,Paper
+104,7/11/2024 23:44,32,US,78664,0,0,More than 8 hours per week,Animal,Yes,Yes,Scissors
+105,9/23/2024 11:34,26,Uunited States,60638,3,4,6-8 hours per week,Miss Piggy,Maybe,No,Rock
+106,9/23/2024 11:34,24,United States,60634,1,2,6-8 hours per week,Kermit the Frog,Maybe,No,Rock
+107,9/23/2024 11:34,26,North America,60608,1,2,More than 8 hours per week,I do not have a favorite Muppet,Yes,Yes,Rock
+108,9/23/2024 11:34,23,United States,60402,1,2,More than 8 hours per week,Pepe,Yes,Yes,Paper
+109,9/23/2024 11:35,21,United States,60016,3,4,I did not watch television,I do not have a favorite Muppet,Maybe,Maybe,Paper
+110,9/23/2024 11:35,26,USA,60804,1,2,6-8 hours per week,Kermit the Frog,Maybe,No,Rock
+111,9/23/2024 11:35,24,usa,60629,1,2,3-6 hours per week,I do not have a favorite Muppet,No,No,Rock
+112,9/23/2024 11:35,21,United States,60659,1,2,3-6 hours per week,I do not have a favorite Muppet,Maybe,No,Scissors
+113,9/23/2024 11:35,28,US,60638,1,2,3-6 hours per week,Kermit the Frog,Maybe,Maybe,Rock
+114,9/23/2024 11:35,28,USA,60651,1,2,More than 8 hours per week,Miss Piggy,,Yes,Rock
+115,9/23/2024 11:35,25,USA,60642,1,2,More than 8 hours per week,Kermit the Frog,Maybe,Maybe,Rock
+116,9/23/2024 11:35,22,USA,60616,1,2,3-6 hours per week,I do not have a favorite Muppet,Maybe,Maybe,Paper
+117,9/23/2024 11:35,24,United States,60647,3,4,More than 8 hours per week,Kermit the Frog,Yes,Maybe,Scissors
+118,9/23/2024 11:35,25,United States,60532,3,4,6-8 hours per week,Gonzo the Great,Yes,Maybe,Paper
+119,9/23/2024 11:36,28,United States,60626,3,4,6-8 hours per week,Kermit the Frog,Yes,Maybe,Paper
+120,9/23/2024 11:36,29,United States,60632,1,2,More than 8 hours per week,I do not have a favorite Muppet,Yes,Maybe,Paper
+121,9/23/2024 11:36,21,United States,60104,3,4,3-6 hours per week,Miss Piggy,Yes,Yes,Scissors
+122,9/23/2024 11:36,19,United States,60616,5,NULL,6-8 hours per week,Beaker,Yes,Maybe,Rock
+123,9/23/2024 11:36,30,United States ,60805,5,NULL,6-8 hours per week,Kermit the Frog,Yes,No,Scissors
+124,9/23/2024 11:36,25,United States of America,60473,3,4,More than 8 hours per week,Cooke Monster,Maybe,No,Scissors
+125,9/23/2024 11:37,19,United States,60443,1,2,6-8 hours per week,Animal,No,No,Scissors
